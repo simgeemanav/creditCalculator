@@ -1,1 +1,1 @@
-# creditCalculator2
+# creditCalculator
